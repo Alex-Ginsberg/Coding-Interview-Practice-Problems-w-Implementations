@@ -2,7 +2,8 @@
     PRIORITY QUEUE: a data structures that takes with each piece of data a prioirty values 
     and returns the data in order of priority
 
-    THE PROBLEM: implement a priority queue with the following methods:
+    THE PROBLEM: 
+    Implement a priority queue with the following methods:
         insert(data, priority)
         peek()
         popMax()
